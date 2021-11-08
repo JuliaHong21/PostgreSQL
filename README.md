@@ -1,8 +1,8 @@
 # PostgreSQL
 
-This is the repo for [Udacity's PostgreSQL course in Data Analyst Nanodegree Program]
+This is the repo for [Udacity's PostgreSQL course in Data Engineering Nanodegree Program]
 
-https://www.udacity.com/course/data-analyst-nanodegree--nd002
+https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Engineering+Nanodegree+Program+Syllabus.pdf
 
 1. Basic SQL
 2. SQL Joins
